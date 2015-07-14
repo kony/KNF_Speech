@@ -3,7 +3,7 @@ Application to showcase Android Speech API integration to Kony Studio using Kony
 
 #To run this app
 
-- Import the project KonyJSBindings_NFC Zip file
+- Import the project.
 - Go to Application Properties -> Native -> Android
 - Enable Mobile First API's
 - Build and run the application.
