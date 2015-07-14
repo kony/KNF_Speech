@@ -1,0 +1,44 @@
+{
+    "forms": {
+        "mobile": {
+            "cd083ae2cabd4d3784a641f590bc308f": {
+                "0a6351cead0649909a3f93416b105416": {},
+                "0dccce6b06ea4d649f7fef903d914eaa": {},
+                "26d5062d059a42108011d688c63bbc70": {},
+                "5d0438bb4cc8404ab62e1b8fe5406d31": {
+                    "platforms": {
+                        "iphone": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "8edef72ffbdb4a23b5627a8ccf4d6abc": {},
+                "9d064c3f149049dba797719a2eb022e5": {},
+                "c620f224f5614627a880218c31c0b356": {},
+                "cd083ae2cabd4d3784a641f590bc308f": {
+                    "platforms": {
+                        "android": {},
+                        "iphone": {
+                            "psp": {}
+                        },
+                        "spaan": {},
+                        "spaip": {},
+                        "spawinphone8": {},
+                        "winphone8": {}
+                    }
+                },
+                "e04e3fd3e3c64cf99b3cc6ca4a93a318": {},
+                "ea1c659a768044c980dd18a813df42c0": {}
+            }
+        }
+    },
+    "templates": {
+        "mobile": {
+            "segments": {
+                "26af2fc410b443ca84d9b74f6fd7ce14": {
+                    "26af2fc410b443ca84d9b74f6fd7ce14": {}
+                }
+            }
+        }
+    }
+}
