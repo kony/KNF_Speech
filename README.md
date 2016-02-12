@@ -11,3 +11,5 @@ Application to showcase Android Speech API integration to Kony Studio using Kony
 # Supported platforms:
 **Mobile**
  * Android
+
+**Supported KonyStudio Version:** 7.0
