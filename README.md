@@ -1,4 +1,4 @@
-# KonyJSBindings_Speech
+# KonyNativeFunctionAPI_Speech
 Application to showcase Android Speech API integration to Kony Studio using Kony JS Bindings.
 
 #To run this app
