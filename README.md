@@ -1,5 +1,5 @@
 # KonyNativeFunctionAPI_Speech
-Application to showcase Android Speech API integration to Kony Visualizer using Kony native function api.
+Application to showcase Android Speech API integration to Kony Visualizer using Kony native function API.
 
 #To run this app
 
