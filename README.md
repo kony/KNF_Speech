@@ -12,4 +12,4 @@ Application to showcase Android Speech API integration to Kony Visualizer using 
 **Mobile**
  * Android
 
-**Supported Kony Visualizer Version:** 7.0
+**Supported Kony Visualizer Enterprise  Version:** 7.0
